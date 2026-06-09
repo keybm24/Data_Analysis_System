@@ -22,7 +22,7 @@ Desktop application built with Python for loading, analyzing, and visualizing da
 - Matplotlib — Chart generation
 - OpenPyXL — Excel file reading
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
 ```bash
@@ -36,5 +36,12 @@ Desktop application built with Python for loading, analyzing, and visualizing da
 ```bash
    python main.py
 ```
+4. Load a test file:
+   - Click the **"📂 Load Excel File"** button
+   - Select any `.xlsx` file with numeric columns
+   - A sample file `sales_data.xlsx` is included in the repository for testing
+
+## Author
+Keilyn Barrantes — [GitHub](https://github.com/keybm24)
 
 ## 📁 Project Structure
