@@ -91,7 +91,7 @@ Data_Analysis_System/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Main Screen | Data Loaded |
 |---|---|
